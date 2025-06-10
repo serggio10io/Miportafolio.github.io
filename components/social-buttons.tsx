@@ -11,21 +11,21 @@ export default function SocialButtons() {
         target="_blank"
         className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-md transition-transform duration-300 hover:-translate-y-1"
       >
-        <Image src="/images/icons8-instagram-32.png" alt="Instagram" width={24} height={24} />
+        <Image src="/images/icons8-instagram-32-updated.png" alt="Instagram" width={24} height={24} />
       </Link>
       <Link
         href="https://wa.me/+5358850138?text=vengo%20desde%20tu%20portafolio%20y%20me%20interesa%20desarrollar%20un%20proyecto"
         target="_blank"
         className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-md transition-transform duration-300 hover:-translate-y-1"
       >
-        <Image src="/images/icons8-whatsapp-32.png" alt="WhatsApp" width={24} height={24} />
+        <Image src="/images/icons8-whatsapp-32-updated.png" alt="WhatsApp" width={24} height={24} />
       </Link>
       <Link
         href="https://facebook.com/sergio.olazabalgomez?mibextid=ZbWKwL"
         target="_blank"
         className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-md transition-transform duration-300 hover:-translate-y-1"
       >
-        <Image src="/images/icons8-facebook-32.png" alt="Facebook" width={24} height={24} />
+        <Image src="/images/icons8-facebook-32-updated.png" alt="Facebook" width={24} height={24} />
       </Link>
     </div>
   )
